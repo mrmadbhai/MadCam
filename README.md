@@ -28,11 +28,10 @@ First of all MadCam tool host a phishing site on attacker local network. This to
 * Perrot Sec OS
 * Garuda Linux
 
-## Prerequisite 
+## Requirements :
 
-* sudo - (Must) for Linux
-* php
-* apache2
+* Better Internet Connection
+* 300 Storage
 
 ## Installation for Android [Termux]
 
