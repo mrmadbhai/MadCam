@@ -64,4 +64,4 @@ Note : You can see the image in Internal Storage.
 
 ## Warning
 
-MadCam tool is only for Educational Purpose. If any user use MadCam Tool is For illegal purpose or taking revenge, In this case the owner will not Responsible. Use of MadCam tool is Complete Responsibility of the user. If any User misuse MadCam tool then the tool and its owner will not Responsible.
+**MadCam tool is only for Educational Purpose. If any user use MadCam Tool is For illegal purpose or taking revenge, In this case the owner will not Responsible. Use of MadCam tool is Complete Responsibility of the user. If any User misuse MadCam tool then the tool and its owner will not Responsible.**
