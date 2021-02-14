@@ -13,6 +13,7 @@ First of all MadCam tool host a phishing site on attacker local network. This to
 ## Features
 
 * Two port forwarding option (NGROK or SERVEO)
+* Live target image.
 * Easy to use
 * Gives anonymity
 * It gives you Responsive Website.
