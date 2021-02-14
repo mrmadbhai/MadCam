@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Jost:400,700&display=swap');
+body
+{
+  margin:0;
+  padding:0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #000;
+
+  font-family: 'Jost', sans-serif;
+}
+h1
+{
+  margin: 0;
+  padding: 0;
+  color: #111;
+  font-size: 5em;
+
+}
+h1 span
+{
+  display: table-cell;
+  margin: 0;
+  padding: 0;
+  animation: animate 2s linear infinite;
+}
+h1 span:nth-child(1)
+{
+  animation-delay: 0s;
+}
+h1 span:nth-child(2)
+{
+  animation-delay: 0.25s;
+}
+h1 span:nth-child(3)
+{
+  animation-delay: 0.5s;
+}
+h1 span:nth-child(4)
+{
+  animation-delay: 0.75s;
+}
+h1 span:nth-child(5)
+{
+  animation-delay: 1s;
+}
+h1 span:nth-child(6)
+{
+  animation-delay: 1.25s;
+}
+h1 span:nth-child(7)
+{
+  animation-delay: 1.5s;
+}
+h1 span:nth-child(8)
+{
+  animation-delay: 1.75s;
+}
+h1 span:nth-child(9)
+{
+  animation-delay: 2s;
+}
+
+@keyframes animate
+{
+  0%,100%
+  {
+    color: rgb(255, 255, 255);
+    filter: blur(2px);
+    text-shadow: 0 0 10px #ff0000,
+                 0 0 20px #ff0000,
+                 0 0 40px #ff0000,
+                 0 0 80px #ff0000,
+                 0 0 120px #ff0000,
+                 0 0 200px #ff0000,
+                 0 0 300px #ff0000,
+                 0 0 400px #ff0000;
+
+  }
+  5%,95%
+  {
+    color: #111;
+    filter: blur(0px);
+    text-shadow: none;
+  }
+}
