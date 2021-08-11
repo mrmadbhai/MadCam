@@ -88,7 +88,7 @@ echo '
     ______!gnm!_....-" .g8888888p. "-------....._
   ."          //     .g8:       :8p..---....___ \".
   | MADCAM   //  ()  d88:       :88b|==========! !|
-  |  V1.0   //       888:       :888|==========| !|
+  |  V1.1   //       888:       :888|==========| !|
   |___      \\_______"T88888888888P""----------"//|   
   |   \       """"""""""""""""""""""""""""""""""/ |   
   |    !...._____      .="""=.   .[]    ____...!  |   
@@ -101,6 +101,7 @@ echo '
                                                                               
 echo " "
 printf "\e[1;93m[\e[0m\e[1;77m+\e[0m\e[1;93m]Script link  :\e[0m\e[1;77m %s\e[0m\n https://www.github.com/MrMadBhai/MadCam"
+printf "\n"
 printf "\e[1;93m[\e[0m\e[1;77m+\e[0m\e[1;93m]Instagram ID :\e[0m\e[1;77m %s\e[0m\n https://www.instagram.com/MrMadBhai"
 printf "\n"
 
