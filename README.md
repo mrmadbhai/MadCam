@@ -6,6 +6,10 @@
 
 MadCam is a Tool that can grab cam shots of targeted phone's of front camera or PC's webcam by just sending a link.
 
+## MadCam latest Version
+
+v1.1 is the latest version of MadCam.
+
 ## How MadCam Works ?
 
 First of all MadCam tool host a phishing site on attacker local network. This tool gives two port forwarding option (NGROK or SERVEO) to take website over the internet. Now come on the main Point, attacker simply open the tool by using terminal and generate a link, when Link is generated attacker send that link to the target. If target open the link, target ip will transfer to the attacker. After Website load, the website ask for Camera access and when target give the permission the website will take cam shots one by one and send it to the Attacker.
