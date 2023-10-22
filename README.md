@@ -8,7 +8,7 @@ MadCam is a Tool that can grab cam shots of targeted phone's of front camera or 
 
 ## MadCam latest Version
 
-v1.1 is the latest version of MadCam.
+v2.0 is the latest version of MadCam.
 
 ## How MadCam Works ?
 
