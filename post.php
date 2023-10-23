@@ -1,5 +1,4 @@
 <?php
-include 'ip.php';
 $date = date('dMYHis');
 $imageData = $_POST['cat'];
 
