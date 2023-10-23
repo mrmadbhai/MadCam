@@ -78,7 +78,7 @@ $ ./ngrok authtoken My_Token_from_ngrok.com
 **Make sure to on hotspot for android only**
 
 ```bash
-$ ./ngrok http 3333                                                                                                        
+$ ./ngrok http 3333
 ```
 
 **Note: second time just use step 4 to start ngrok server**
